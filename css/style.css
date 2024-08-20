@@ -1,16 +1,47 @@
 .navBar{
-    background-color: lightgray;
+    background-color: whitesmoke;
+    color: darkgray;
    
 }
 
+
 .heroSection{
-    background-color: #8bc34a;
+    background-color: #a0c63f;
+    color: whitesmoke;
 }
 
 .buttonSpace ul{
     list-style: none;
+    
 }
 
 .buttonSpace li{
+    display: inline-block;
+    font-size: x-large;
+    
+}
+
+.socialButtons{
+    list-style: none;
+}
+
+.socialButtons li{
     display: inline;
+}
+
+.listSpace {
+    padding-left: 125px;
+}
+
+.bottomNavButtons ul{
+    list-style: none;
+}
+
+.bottomNavButtons li{
+    display: inline;
+    padding-left: 25px;
+}
+
+.span{
+    color: #a0c63f;
 }
