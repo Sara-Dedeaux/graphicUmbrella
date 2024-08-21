@@ -1,13 +1,29 @@
+
+
+
 .navBar{
     background-color: whitesmoke;
     color: darkgray;
+    font-family: "Moderustic", sans-serif;
    
+}
+
+.navBar .buttonSpace{
+    align-content: center;
+    color:  rgb(24, 23, 23);
 }
 
 
 .heroSection{
     background-color: #a0c63f;
     color: whitesmoke;
+    font-family: "Moderustic", sans-serif;
+}
+
+.heroSection h1{
+    padding-top: 63px;
+    padding-right: 21px;
+    
 }
 
 .buttonSpace ul{
@@ -42,6 +58,74 @@
     padding-left: 25px;
 }
 
-.span{
+.featureButtons {
+    background-color: whitesmoke;
+    font-family: "Moderustic", sans-serif;
+}
+
+.greenWord{
     color: #a0c63f;
+}
+
+.portfolio {
+    background-color: whitesmoke;
+    font-family: "Moderustic", sans-serif;
+   
+}
+
+.portfolio button{
+    background-color: #a0c63f;
+    color: white;
+    border: #a0c63f;
+}
+
+.portfolio .section{
+    background-color: white;
+}
+
+.portfolio .row {
+    margin-bottom: 16px;
+    margin-top: 16px;
+    margin-right: 13px;
+    margin-left: 13px;
+}
+
+.advertiser{
+    background-color: whitesmoke;
+    font-family: "Moderustic", sans-serif;
+}
+
+.archives p{
+    border-bottom: 2px solid lightgrey;
+    
+}
+
+.newsletter button {
+    margin-bottom: 20px;
+    background-color: white;
+    color: darkgray;
+    border-color: darkgray;
+}
+
+.subscribe button{
+    background-color: #a0c63f;
+    color: white;
+    
+}
+
+.bottomBlock{
+    
+    font-family: "Moderustic", sans-serif;
+    padding-top: 25px;
+}
+
+.bottomNavBar{
+    background-color: rgb(24, 23, 23) ;
+    color: whitesmoke;
+    font-family: "Moderustic", sans-serif;
+}
+
+.followUS{
+    font-family: "Moderustic", sans-serif;
+   
 }
