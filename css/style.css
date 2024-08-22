@@ -45,9 +45,7 @@
     display: inline;
 }
 
-.listSpace {
-    padding-left: 125px;
-}
+
 
 .bottomNavButtons ul{
     list-style: none;
@@ -129,3 +127,43 @@
     font-family: "Moderustic", sans-serif;
    
 }
+
+.mainSection {
+    font-family: "Moderustic", sans-serif;
+}
+
+.mainBlock{
+    font-family: "Moderustic", sans-serif;
+ 
+}
+
+.emptyBox button{
+    padding-right: 224px;
+    padding-top: 36px;
+}
+
+.mainBlock h1{
+    font-size: x-large;
+}
+
+.rightColumn h2{
+    font-size: large;
+}
+
+
+
+.emptyDiv1 {
+    background-color: #a0c63f;
+    padding-top: 20px;
+}
+
+.emptyDiv2 {
+    background-color: #a0c63f;
+    padding-top: 20px;
+    border: solid white 1px;
+}
+
+.para-text {
+    border-bottom: black dashed 1px;
+}
+
